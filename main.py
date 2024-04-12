@@ -5,3 +5,4 @@ for num in my_list:
 
 print("salam Baki")
 print("salam Azerbaycan")
+print("salam Nahida")
