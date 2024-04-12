@@ -4,3 +4,4 @@ for num in my_list:
     print(num)
 
 print("salam Baki")
+print("salam Azerbaycan")
